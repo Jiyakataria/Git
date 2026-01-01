@@ -1,4 +1,5 @@
 # Git
 Tutorial Related to Git hub
 <br>
-Author:Jiya
+
+Author:Jiya Kataria
